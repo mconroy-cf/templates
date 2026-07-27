@@ -1,0 +1,19 @@
+agent-commerce-analytics-template/README.md
+  s_6449fe45afd80a::t_6f9ef05f9007a1 7-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ef28466fba84eb8f58b403a266a215a01131fed5",
+  "prompts": {},
+  "sessions": {
+    "s_6449fe45afd80a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_05d3c16fdffeNBF3mmtjCRU4Tj",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "matthewconroy <matthewconroy@cloudflare.com>"
+    }
+  }
+}
